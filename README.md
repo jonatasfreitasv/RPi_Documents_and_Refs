@@ -1,2 +1,2 @@
-# RPi_Documents_and_Refs
+# RPi Documents and Refs
 Documents and references for RaspberryPi and eletronic components.
